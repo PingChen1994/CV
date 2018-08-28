@@ -1,6 +1,7 @@
 ## Education
 
 2012-2016 Huaibei Normal University
+
 2016-     [South China Normal University](http://psy.scnu.edu.cn/)
 
 ### Markdown
