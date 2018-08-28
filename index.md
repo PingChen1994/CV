@@ -3,11 +3,12 @@
 2012-2016 Huaibei Normal University  
 2016-     South China Normal University
 
-### Awards
+## Awards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+National Sholorship (2 out of 1000)                  2014
+National Encouragement Scholorship (5 out of 100)    2013,2015
 
-### Journals Publications
+### Journals Publication
 
 Chen, P., Xie, Q., Wu, X., Huang, H., Lv, W., Chen, L., . . . Wang, Y. (2018). Abnormal Effective Connectivity of the Anterior Forebrain Regions in Disorders of Consciousness. Neuroscience Bulletin(15).   
 [[paper]](https://link.springer.com/article/10.1007/s12264-018-0250-6)
