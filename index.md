@@ -1,11 +1,16 @@
 ## Education
 
 2012-2016 Huaibei Normal University  
-2016-     [South China Normal University](http://psy.scnu.edu.cn/)
+2016-     South China Normal University
 
-### Markdown
+### Awards
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Journals Publications
+
+Chen, P., Xie, Q., Wu, X., Huang, H., Lv, W., Chen, L., . . . Wang, Y. (2018). Abnormal Effective Connectivity of the Anterior Forebrain Regions in Disorders of Consciousness. Neuroscience Bulletin(15). 
+[paper](https://link.springer.com/article/10.1007/s12264-018-0250-6)
 
 ```markdown
 Syntax highlighted code block
