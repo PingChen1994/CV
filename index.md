@@ -1,8 +1,7 @@
 ## Education
 
-You can use the [editor on GitHub](https://github.com/PingChen1994/pingchen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2012-2016 Huaibei Normal University
+2016-     [South China Normal University](http://psy.scnu.edu.cn/)
 
 ### Markdown
 
